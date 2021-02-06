@@ -15,7 +15,7 @@
 
   <meta name='twitter:card' content='summary_large_image' />
 
-  <link rel='icon' type='image/png' href='https://underpost.net/assets/favicon.png' />
+  <link rel='icon' type='image/png' href='https://underpost.net/assets/underpost.png' />
 
   <title>underpost.net</title>
   <script>
