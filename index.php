@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
-  <meta charset="gb18030"><meta name='title' content='PathFinding' />
+  <meta charset="gb18030"><meta name='title' content='3D Plot Demo - underpost.net' />
 
   <meta name='viewport' content='initial-scale=1.0, maximum-scale=1.0, user-scalable=0'/>
-            
+
   <meta name='viewport' content='width=device-width, user-scalable=no' />
 
   <meta name='description' content='3D Plot Demo - UNDERpost.net' />
@@ -21,7 +21,7 @@
 
   <link rel='icon' type='image/png' href='https://underpost.net/assets/underpost.png' />
 
-  <title>underpost.net</title>
+  <title>3D Plot Demo - underpost.net</title>
   <script>
   <?php
 
