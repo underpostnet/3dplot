@@ -13,7 +13,7 @@
 
   <meta property='og:title' content='3D Plot Demo' />
 
-  <meta property='og:image' content='https://underpost.net/assets/underpost-social.jpg' />
+  <meta property='og:image' content='https://underpost.net/3dplotdemo/social.jpg' />
 
   <meta property='og:url' content='https://underpost.net/3dplotdemo' />
 
