@@ -3,6 +3,10 @@
 <head>
   <meta charset="gb18030"><meta name='title' content='PathFinding' />
 
+  <meta name='viewport' content='initial-scale=1.0, maximum-scale=1.0, user-scalable=0'/>
+            
+  <meta name='viewport' content='width=device-width, user-scalable=no' />
+
   <meta name='description' content='3D Plot Demo - UNDERpost.net' />
 
   <link rel='canonical' href='https://underpost.net/3dplotdemo' />
