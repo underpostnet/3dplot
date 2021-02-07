@@ -17,6 +17,17 @@
 
   <meta property='og:url' content='https://underpost.net/3dplotdemo' />
 
+  <script async src='https://www.googletagmanager.com/gtag/js?id=UA-142681040-1'></script>
+
+  <script>
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-142681040-1');
+
+  </script>
+
   <meta name='twitter:card' content='summary_large_image' />
 
   <link rel='icon' type='image/png' href='https://underpost.net/assets/underpost.png' />
